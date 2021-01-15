@@ -1,3 +1,8 @@
 THIS  is dev note.this is a new file
+<<<<<<< HEAD
 
 new line added
+||||||| 32e0e39
+=======
+this is another edit in the file
+>>>>>>> dev
